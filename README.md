@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sany655
+- 👋 Hi, I’m @Sany655 (Mohammad Mazharul Alam)
 - 👀 I’m interested in high sa;ary job in US. :D
-- 🌱 I’m currently learning React js, matetial ui, redux and other state management, and express mongo firebase etc
-- 💞️ I’m looking to collaborate on react js projects.
-- 📫 Knock me in facebook.com/sany.alam.351
+- 🌱 I’m currently studying at USTC (C for chittagong not china)
+- 💞️ I’m looking to collaborate on next.js/reactjs/flutter projects.
+- 📫 Knock me in facebook.com/sany.alam.351 or https://portfolio-sany.web.app/
 
 <!---
 Sany655/Sany655 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
